@@ -2,6 +2,9 @@
 
 A modern dating platform built with Next.js and Firebase.
 
+![](https://youtu.be/SAVEr942cTQ)
+
+
 ## Prerequisites
 
 - Node.js (v14 or higher)
